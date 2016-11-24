@@ -4,7 +4,7 @@
 
 ### Demo available at
 
-https://www.facebook.com/Testbotapp-622726197900327/
+http://m.me/622726197900327
 
 ### Server being run at
 
