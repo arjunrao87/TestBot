@@ -1,10 +1,12 @@
 # TestBot
 
-## Simple FB Messenger bot that echoes back whatever you type
+## Simple FB Messenger bot that echoes back whatever you type. Or sends you kitten pictures.
 
 ### Demo available at
 
 http://m.me/622726197900327
+
+*( Text "kitten 200 300" to see what that means in FB messenger )*
 
 ### Server being run at
 
